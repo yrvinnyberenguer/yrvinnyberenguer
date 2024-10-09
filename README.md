@@ -1,7 +1,7 @@
 ## Olá, sou a Yrvinny👋
 
 
-- 🔭 Atualmente estudando na Uninassau e no Ponto Cidadão (adm)
+- 🔭 Atualmente cursando Desenvolvimento de sistemas na ETEJBL e Administração no Ponto Cidadão
 - 🌱 Estudando Lógica de programação
 - 👯 Contato: yrvinnytpb@gmail.com
 - 😄 Pronomes: She/Her
